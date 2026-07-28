@@ -1,11 +1,11 @@
 name = "Achtertuin"
-version = "6.0.6"
+version = "6.0.10"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0519f7491c129582263a2c11fa0399d270b565dc7dd3be34c48dae1c365ce2eb"
+hash = "e2f4f99c9c652f683ec92e0bf3a720725e22f11404823936a17d951210fa9c7e"
 
 [versions]
 minecraft = "1.21.1"
