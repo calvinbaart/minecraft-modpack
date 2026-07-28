@@ -2686,28 +2686,33 @@ hash = "8e3c94d901d27042e160a6f618f1574c5e644defe10d6fb9ad486c9f2dbfce5d"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis-x-irons-spellbooks-compat.pw.toml"
+hash = "f0c69a6031a3cead5927e8147726049b437b136e7b8cc8b4cc5f2b132a305b35"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "12ec709b083f056a71c4686f0fcda98fba38e7d6d850f8357ee8332969833ad0"
+hash = "83b200476e5d4c72a3c398b3390acea9b7e490e220c9d3a8200977cb5dc41acf"
 metafile = true
 
 [[files]]
 file = "mods/apothic-attributes.pw.toml"
-hash = "014ee07aad95d234a4be89ab018d7cc72b9b41999bf0d5f45de11b509a10bd5e"
+hash = "b29165174134527a122d8d2373b707f62498eb6a4aad75ea2e8803556469a109"
 metafile = true
 
 [[files]]
 file = "mods/apothic-combat.pw.toml"
-hash = "273f7d5373241db352b45dc8e7e0669f32bcce40a3c887104fe5ac1f807cc94e"
+hash = "b580a8827aa4afd1212f0dc6cd9e0e7c5bad1cda446eab7e6c11cecaf70c9020"
 metafile = true
 
 [[files]]
 file = "mods/apothic-enchanting.pw.toml"
-hash = "803464cf825c0bdb8043e8cbb8667dcbed01a50fd70b0525215dcd177683a8dc"
+hash = "ee4ff761426cdfdbb93b645878ea6dcdbc39e518fe5e59546c4988803ec589e5"
 metafile = true
 
 [[files]]
 file = "mods/apothic-spawners.pw.toml"
-hash = "73c6535aa33ece6287b6434c21edc5c16635003442e95c57b410b3acb4957a95"
+hash = "37631bc5607ccec998f17dba24cd5a7f7c00956d695891db0361a4a99c9b8e4b"
 metafile = true
 
 [[files]]
@@ -3842,7 +3847,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanityslots.pw.toml"
-hash = "a11a8cd7fc3b9cdf66f0fa8f2214a7a4fa1beee265b4743cb56385692070d173"
+hash = "678ffbe44007654fa572af716c884f604a1368f23959f09740c8cf3701373186"
 metafile = true
 
 [[files]]
@@ -3954,6 +3959,18 @@ metafile = true
 file = "mods/yungs-extras-neoforge.pw.toml"
 hash = "cd321f6365bc3938e0671450aadcd40c8e03af5cb24d0a545fb07c890b4793ac"
 metafile = true
+
+[[files]]
+file = "moonlight-global-datapacks/achtertuin-mage-crit-parity/data/irons_apothic/affixes/magic_weapons/attribute/brutish.json"
+hash = "f927308100932b993df9e5decf745cb0f778d42711b6328525eb92c01c1e18e3"
+
+[[files]]
+file = "moonlight-global-datapacks/achtertuin-mage-crit-parity/data/irons_apothic/affixes/magic_weapons/attribute/volatile.json"
+hash = "7d7fb12f336fda1abfdfc738819d3386722f1b85fab8316e13c18d77283c1113"
+
+[[files]]
+file = "moonlight-global-datapacks/achtertuin-mage-crit-parity/pack.mcmeta"
+hash = "f5eff4032a9f964f60c29eb70f1d141467bb9ac9c2d4d4fecc0c7e61643fbe89"
 
 [[files]]
 file = "moonlight-global-datapacks/achtertuin-skill-tree-trim/data/rpg_skill_tree/puffish_skills/config.json"
