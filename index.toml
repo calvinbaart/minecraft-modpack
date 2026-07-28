@@ -3512,7 +3512,7 @@ metafile = true
 
 [[files]]
 file = "mods/mpalladium.pw.toml"
-hash = "ecea6722c62bc3eadb6893d75ee941655b0f5378bd463519773f7aff0c368307"
+hash = "30cd1eefdff16a19d2fddb7d9430f6d5584dd9cd5d40618f657ae8fd9cc74f9a"
 metafile = true
 
 [[files]]
@@ -3802,7 +3802,7 @@ metafile = true
 
 [[files]]
 file = "mods/toadlib.pw.toml"
-hash = "b68e175a2bb0de4d337d3592aa2dedd1dcc9e47b38a5b21b5d3a1fe7fb7dff5a"
+hash = "3e3432377549e1088f047ba6fd0593de0851b13c40808f37b34a991324e68ff6"
 metafile = true
 
 [[files]]
