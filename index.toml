@@ -2687,7 +2687,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis-x-irons-spellbooks-compat.pw.toml"
-hash = "f0c69a6031a3cead5927e8147726049b437b136e7b8cc8b4cc5f2b132a305b35"
+hash = "21acf83ce81ccf01e1a0263c91101dc6df695007741bb374f9874138c182afa5"
 metafile = true
 
 [[files]]
