@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".claude/settings.local.json"
-hash = "f52b5b517819ea285bd923b81dff1bf6c82f8c1d5417ffed172d947da58f7995"
+hash = "3725fd40bfbe4c92e916576fab0d7d6e6bdfe0a54021b623516305b7fc24220f"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -2881,7 +2881,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats-aeronautics-weight.pw.toml"
-hash = "5e3e1807657a50181a5001027c888474c3b2852623cdb3f72b71cf10f49a0208"
+hash = "a1e68ec75524eb10a4522c27e3429a43c22861ac3c081686bd948a06bc4cfc91"
 metafile = true
 
 [[files]]
@@ -2951,7 +2951,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "59beba57945e374108e22789e8fc32d2758174929ebd9bf17fc139956dc32e30"
+hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
 metafile = true
 
 [[files]]
@@ -2996,7 +2996,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dynamic-lights.pw.toml"
-hash = "77ce35f9c20ed2a397c8e2b95eb9f672cf37e44e16f99f17f250c398cabd89bf"
+hash = "56ff7fa56eb6ae7d32cdd1f7ce84022d1ed25b416dd9142572ef0d2360d49ec9"
 metafile = true
 
 [[files]]
@@ -3086,27 +3086,27 @@ metafile = true
 
 [[files]]
 file = "mods/dnt-desert-temple-overhaul.pw.toml"
-hash = "f7c82a9de37ed0416e9b9ff33ccb92159a10b85d5a0ec61781f4b634a921f6ba"
+hash = "81ed2d4757dbc1fd48d4b43b39512aa578aae651e67557d2d159836578637c1f"
 metafile = true
 
 [[files]]
 file = "mods/dnt-end-castle-standalone.pw.toml"
-hash = "ab5226b7dfe3a74ebd36551c374599b59a5ba676a25a7cfd46ecbed49047c0be"
+hash = "ddaa94895bc96873c5fd37e7f4e085a3894d425b91a20e566ff9ec81fedce3d1"
 metafile = true
 
 [[files]]
 file = "mods/dnt-jungle-temple-overhaul.pw.toml"
-hash = "d32fd96a06d0f708e4c613d10c700e1f42402c32d239c2d07578600a71ee649e"
+hash = "2f000fcdd88cb2b335b7bb7120fb85b9a768f2776f1eca7b69e2913fa7d0e63b"
 metafile = true
 
 [[files]]
 file = "mods/dnt-nether-fortress-overhaul.pw.toml"
-hash = "25d0d7bb1e7d5999402150afd965e6f5f8b6b9e5a94e2fadd95d5bc581a7ab11"
+hash = "24b4521a1fe44a2fccc1664d490b68cb5d77fd87466a73cf85d1355efff9d02c"
 metafile = true
 
 [[files]]
 file = "mods/dnt-ocean-monument-overhaul.pw.toml"
-hash = "0c45d8d12fe993224ea37b11e5ef2fbdf4b6560aaca7938217db0392a028ad3f"
+hash = "e4c356fafce32616929968403eb12c21ed678c87b286e10b634450b7fa9e42ed"
 metafile = true
 
 [[files]]
@@ -3126,7 +3126,7 @@ metafile = true
 
 [[files]]
 file = "mods/dnt-woodland-mansion-overhaul.pw.toml"
-hash = "dabdd4071bef81076c7fe7ff6bfa85830f5d87efd25b069fb78eb7134304b567"
+hash = "577078ecce267a5bd3c7c1c15a3914cb6510e6b4085a13db64f88acf9d9dcd79"
 metafile = true
 
 [[files]]
@@ -3456,7 +3456,7 @@ metafile = true
 
 [[files]]
 file = "mods/library-ferret-neoforge.pw.toml"
-hash = "6568975091d861763aac4c0fe03863e9659f9944308b2ab941472b887b023a05"
+hash = "590d539a2166f36415995ee35d1e4c0126ba6695f3ee7ba05f04b84d3a37f371"
 metafile = true
 
 [[files]]
@@ -3771,7 +3771,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "411be936c8db5e39300bcafaa7707b236d9a6bbaaf2171879b56b19d5ceea6ca"
+hash = "3c4da8a221086153d491104bba4fd8796dac92d5c3e0b2dc111a6c5d53b65484"
 metafile = true
 
 [[files]]
