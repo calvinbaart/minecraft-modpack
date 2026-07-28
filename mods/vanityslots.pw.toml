@@ -1,13 +1,13 @@
 name = "VanitySlots"
-filename = "vanityslots-neoforge-1.21.1-2.0.0.jar"
+filename = "vanityslots-neoforge-1.21.1-2.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4c5415e1550da37eb221760e1a5114c2ab959da7"
+hash = "46049cb99a2223950cd690af90efdd6f390d801c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5708280
+file-id = 5773778
 project-id = 570109

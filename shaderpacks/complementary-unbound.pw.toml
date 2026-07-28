@@ -1,4 +1,4 @@
-name = "charlotte name shade"
+name = "Complementary Shaders - Unbound"
 filename = "ComplementaryUnbound_r5.8.1.zip"
 side = "both"
 
@@ -9,5 +9,5 @@ mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8376019
-project-id = 1599131
+file-id = 8123288
+project-id = 385587

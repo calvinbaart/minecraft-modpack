@@ -1,0 +1,13 @@
+name = "JEI Gateways"
+filename = "jei_gateways-1.1.2+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c86101938e7bb5cef5dd6d1a7b4e24472b87cef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8245265
+project-id = 1556744
