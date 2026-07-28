@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".claude/settings.local.json"
-hash = "3725fd40bfbe4c92e916576fab0d7d6e6bdfe0a54021b623516305b7fc24220f"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "4dbbc482a0fd1331b0bb12c9ae012da0a2da14c735a7b5d92315d99abd060002"
 
