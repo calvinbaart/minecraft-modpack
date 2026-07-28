@@ -1,6 +1,6 @@
 name = "JEI Gateways"
 filename = "jei_gateways-1.1.2+mc1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
