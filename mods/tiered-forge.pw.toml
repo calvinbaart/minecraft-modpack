@@ -1,0 +1,14 @@
+name = "Reforged (formerly Tiered)"
+filename = "Reforged-1.21.1-1.0.10-NeoForge.jar"
+side = "both"
+pin = true
+
+[download]
+hash-format = "sha1"
+hash = "89c727afa50848f08386f36befd26b3d1550a85f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7040204
+project-id = 453889

@@ -1,0 +1,4 @@
+#Curios settings
+[Curios]
+	#Allow multiple accessories of the same type to be equipped at once
+	accessoryStacking = false

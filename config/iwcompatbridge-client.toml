@@ -1,0 +1,30 @@
+#RyoamicLights settings
+[RyoamicLights]
+	#The light level of flares
+	# Default: 15
+	# Range: 0 ~ 15
+	flareLightLevel = 15
+	#The light level of fireflies
+	# Default: 8
+	# Range: 0 ~ 15
+	fireflyLightLevel = 8
+	#The light level of meteors
+	# Default: 15
+	# Range: 0 ~ 15
+	meteorLightLevel = 15
+	#The light level of star wolves
+	# Default: 6
+	# Range: 0 ~ 15
+	starWolfLightLevel = 6
+	#The light level of muzzle flashes
+	# Default: 15
+	# Range: 0 ~ 15
+	muzzleFlashLightLevel = 15
+	#The light level of mortars
+	# Default: 15
+	# Range: 0 ~ 15
+	mortarLightLevel = 15
+	#The light level of throwable items
+	# Default: 15
+	# Range: 0 ~ 15
+	throwableLightLevel = 15

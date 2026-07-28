@@ -1,0 +1,13 @@
+name = "Surface Mushrooms"
+filename = "surfacemushrooms-1.21.1-3.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98581af87061d41d0013de6af5146c6533015cc6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6184990
+project-id = 550963

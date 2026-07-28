@@ -1,0 +1,14 @@
+#Enable or disable the Tesla Armor effect sound
+teslaArmorEffectSound = true
+#Set the number of particles produced by the smoke grenade. The server may choose to override this value to encourage fairness.
+# Default: 96
+# Range: 0 ~ 255
+smokeGrenadeParticles = 96
+#Render smoke grenade particles at 66% of the regular size, spawn 3x more, and add translucency. This will negatively impact performance, but make smoke grenades appear more realistic.
+fancySmokeGrenadeParticles = false
+#Set the number of blood particles created when entities are shot
+# Default: 16
+# Range: 0 ~ 128
+gunShotBloodParticles = 16
+#Make the flash effect black instead of white
+darkModeFlashbangs = false

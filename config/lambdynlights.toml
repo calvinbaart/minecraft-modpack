@@ -1,0 +1,115 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Enable entities light source.
+	entities = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+			[light_sources.settings.entities.minecraft]
+				bee = true
+				axolotl = true
+				cow = true
+				pig = true
+				allay = true
+				skeleton = true
+				bat = true
+				frog = true
+				armadillo = true
+				camel = true
+				rabbit = true
+				armor_stand = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				turtle = true
+				salmon = true
+				goat = true
+				item_frame = true
+				horse = true
+				vindicator = true
+				evoker = true
+				glow_squid = true
+				glow_item_frame = false
+				squid = true
+				parrot = true
+				creeper = true
+				enderman = true
+				chicken = true
+				ravager = true
+				donkey = true
+				tropical_fish = true
+				chest_minecart = true
+				fox = true
+				slime = true
+				pillager = true
+				iron_golem = true
+				cat = true
+				zombie = true
+				guardian = true
+				sheep = true
+				player = true
+				pufferfish = true
+				villager = true
+				wolf = true
+				zombie_villager = true
+				tnt_minecart = true
+				polar_bear = true
+				falling_block = true
+				painting = true
+				cave_spider = true
+				witch = true
+				cod = true
+				spider = true
+				elder_guardian = true
+
+			[light_sources.settings.entities.immersive_aircraft]
+				biplane = true
+				warship = true
+
+			[light_sources.settings.entities.ecologics]
+				squirrel = true
+				penguin = true
+				coconut_crab = true
+
+			[light_sources.settings.entities.supplementaries]
+				falling_urn = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				bamboo_creeper = true
+				badlands_creeper = true
+				ocean_creeper = true
+				dripstone_creeper = true
+				jungle_creeper = true
+				cave_creeper = true
+				savannah_creeper = true
+				hills_creeper = true
+				birch_creeper = true
+				beach_creeper = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				copper_golem = true
+				glare = true
+				illusioner = true
+				moobloom = true
+				mauler = true
+				crab = true
+
+			[light_sources.settings.entities.biomeswevegone]
+				pumpkin_warden = true
+				oddion = true
+				man_o_war = true
+				wreath = true
+
+			[light_sources.settings.entities.amendments]
+				falling_lantern = true

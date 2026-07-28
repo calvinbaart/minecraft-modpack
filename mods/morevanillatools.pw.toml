@@ -1,0 +1,13 @@
+name = "MoreVanillaTools"
+filename = "MoreVanillaTools-21.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bffcd2c10d9b627468c8c780ba359a6c4ea779fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6666757
+project-id = 349504

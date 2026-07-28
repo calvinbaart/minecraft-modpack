@@ -1,0 +1,197 @@
+#General settings
+[general]
+	#Enable or disable the Tiltros dimension portal
+	tiltrosEnabled = true
+	#Force the number of particles produced by the smoke grenade to be the same on all clients. A value of -1 will allow clients to define their own values.
+	# Default: -1
+	# Range: -1 ~ 255
+	forceSmokeGrenadeParticles = -1
+	#Set the range of the Panic Alarm's sound
+	# Default: 48
+	# Range: 0 ~ 128
+	panicAlarmRange = 48
+	#Allow damageable blocks like barbed wire and wooden spikes to decay as they are used
+	blockDecay = true
+	#Set the maximum armor protection cap. The vanilla default is 20, but higher values allow better armor to work as intended. 25 is fully unlocked.
+	# Default: 25.0
+	# Range: 20.0 ~ 25.0
+	maxArmorProtection = 25.0
+	#Set the bullet despawn time modifier. Increasing this will cause bullets to despawn faster. By default, these take 60 seconds to despawn once they hit the ground.
+	# Default: 1
+	# Range: 1 ~ 10
+	customArrowDespawnTimeModifier = 1
+
+	#Celestial Altar
+	[general.celestial_altar]
+		#Specify maximum caps on enchantments to prevent the Celestial Altar from upgrading them past a certain level. Max level enchants appear with a gold tooltip.
+		celestialAltarEnchantCaps = ["minecraft:mending;1", "minecraft:silk_touch;1", "minecraft:knockback;5", "minecraft:punch;5", "minecraft:flame;1", "minecraft:infinity;1", "minecraft:channeling;1", "minecraft:multishot;1", "minecraft:protection;5", "minecraft:blast_protection;5", "minecraft:fire_protection;5", "minecraft:projectile_protection;5", "minecraft:feather_falling;5", "minecraft:swift_sneak;5", "minecraft:lure;5", "minecraft:aqua_affinity;1", "minecraft:density;5", "minecraft:wind_burst;10", "minecraft:breach;4", "immersiveweapons:extended_reach;1", "immersiveweapons:endless_musket_pouch;1", "immersiveweapons:scorch_shot;3", "immersiveweapons:velocity;5", "immersiveweapons:impact;5", "immersiveweapons:burning_heat;1", "immersiveweapons:celestial_fury;1", "immersiveweapons:heavy_comet;4", "immersiveweapons:regenerative_assault;5", "immersiveweapons:malevolent_gaze;5", "immersiveweapons:nightmarish_stare;19", "immersiveweapons:crimson_claw;5"]
+		#Set the maximum Celestial Fragment cost for enchantment upgrades
+		# Default: 32
+		# Range: 0 ~ 64
+		celestialAltarMaxEnchantUpgradeCost = 32
+
+#Entity settings
+[entity]
+	#Set the range for checking criteria of the entity discovery advancement
+	# Default: 50
+	# Range: 0 ~ 255
+	discoveryAdvancementRange = 50
+
+	#Celestial Tower
+	[entity.celestial_tower]
+		#Set the spawn checking radius for the Celestial Tower. Higher values increase the effectiveness of Celestial Lanterns.
+		# Default: 256
+		# Range: 0 ~ 512
+		celestialTowerSpawnCheckingRadius = 256
+		#Multiplier to change the wave size of Celestial Tower summons
+		# Default: 1.0
+		# Range: 0.0 ~ 5.0
+		celestialTowerWaveSizeModifier = 1.0
+
+	#The Commander
+	[entity.the_commander]
+		#Multiplier to change the wave size of The Commander summons
+		# Default: 1.0
+		# Range: 0.0 ~ 5.0
+		theCommanderWaveSizeModifier = 1.0
+
+#Weapons
+[weapons]
+	#Set the chance for a fired bullet to be critical
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	gunCritChance = 0.1
+	#Allow bullets to break glass
+	bulletsBreakGlass = true
+	#Allow infinity-type enchantments to work on all ammo tiers. By default, it is restricted to cobalt and lower tiers.
+	infiniteAmmoOnAllTiers = false
+
+	#Flintlock Pistol
+	[weapons.flintlock_pistol]
+		#Set the base velocity of bullets
+		# Default: 2.5
+		# Range: 0.0 ~ 10.0
+		flintlockPistolFireVelocity = 2.5
+		#Set the inaccuracy modifier
+		# Default: 1.75
+		# Range: 0.0 ~ 10.0
+		flintlockPistolFireInaccuracy = 1.75
+
+	#Blunderbuss
+	[weapons.blunderbuss]
+		#Set the base velocity of bullets
+		# Default: 1.7000000476837158
+		# Range: 0.0 ~ 10.0
+		blunderbussFireVelocity = 1.7000000476837158
+		#Set the inaccuracy modifier
+		# Default: 2.0
+		# Range: 0.0 ~ 10.0
+		blunderbussFireInaccuracy = 2.0
+
+	#Flare Gun
+	[weapons.flare_gun]
+		#Set the base velocity of bullets
+		# Default: 2.5
+		# Range: 0.0 ~ 10.0
+		flareGunFireVelocity = 2.5
+		#Set the inaccuracy modifier
+		# Default: 1.75
+		# Range: 0.0 ~ 10.0
+		flareGunFireInaccuracy = 1.75
+
+	#Musket
+	[weapons.musket]
+		#Set the base velocity of bullets
+		# Default: 4.0
+		# Range: 0.0 ~ 10.0
+		musketFireVelocity = 4.0
+		#Set the inaccuracy modifier
+		# Default: 0.15000000596046448
+		# Range: 0.0 ~ 10.0
+		musketFireInaccuracy = 0.15000000596046448
+
+	#Hand Cannon
+	[weapons.hand_cannon]
+		#Set the base velocity of bullets
+		# Default: 2.549999952316284
+		# Range: 0.0 ~ 10.0
+		handCannonFireVelocity = 2.549999952316284
+		#Set the inaccuracy modifier
+		# Default: 1.850000023841858
+		# Range: 0.0 ~ 10.0
+		handCannonFireInaccuracy = 1.850000023841858
+
+	#Dragons Breath Cannon
+	[weapons.dragons_breath_cannon]
+		#Set the base velocity of bullets
+		# Default: 2.6500000953674316
+		# Range: 0.0 ~ 10.0
+		dragonsBreathCannonFireVelocity = 2.6500000953674316
+		#Set the inaccuracy modifier
+		# Default: 1.7999999523162842
+		# Range: 0.0 ~ 10.0
+		dragonsBreathCannonFireInaccuracy = 1.7999999523162842
+
+	#Ventus Staff
+	[weapons.ventus_staff]
+		#Set radius in blocks where the Ventus Staff can push things
+		# Default: 3
+		# Range: 0 ~ 64
+		ventusStaffRadius = 3
+
+	#Meteor Staff
+	[weapons.meteor_staff]
+		#Set the maximum range the staff can be used
+		# Default: 100
+		# Range: 0 ~ 255
+		meteorStaffMaxUseRange = 100
+		#Set the radius of the explosion created
+		# Default: 3.0
+		# Range: 0.0 ~ 10.0
+		meteorStaffExplosionRadius = 3.0
+		#Allow explosions to break blocks
+		meteorStaffExplosionBreakBlocks = false
+
+	#Cursed Sight Staff
+	[weapons.cursed_sight_staff]
+		#Set the maximum range the staff can be used
+		# Default: 50
+		# Range: 0 ~ 255
+		cursedSightStaffMaxUseRange = 50
+
+	#Sculk Staff
+	[weapons.sculk_staff]
+		#Set the maximum range the staff can be used
+		# Default: 15
+		# Range: 0 ~ 255
+		sculkStaffMaxUseRange = 15
+		#Allow the sonic blast to travel through blocks
+		sculkStaffSonicBlastThroughBlocks = true
+
+	#Recovery Staff
+	[weapons.recovery_staff]
+		#Set the maximum range the staff can be used
+		# Default: 15
+		# Range: 0 ~ 255
+		recoveryStaffMaxUseRange = 15
+
+#Throwables
+[throwables]
+
+	#Smoke Grenade
+	[throwables.smoke_grenade]
+		#Set the effect range of smoke grenades. This is specifically for the target-clearing effect on non-player entities.
+		# Default: 7.0
+		# Range: 0.0 ~ 32.0
+		smokeGrenadeEffectRange = 7.0
+
+	#Flashbang
+	[throwables.flashbang]
+		#Set the effect range of flashbangs
+		# Default: 10.0
+		# Range: 0.0 ~ 32.0
+		flashbangEffectRange = 10.0
+		#Set the time in ticks that entities are disoriented by flashbangs
+		# Default: 100
+		# Range: 0 ~ 200
+		flashbangDisorientTime = 100

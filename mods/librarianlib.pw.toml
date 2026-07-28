@@ -1,0 +1,13 @@
+name = "LibrarianLib"
+filename = "librarianlib-5.0.0-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e729d2a22f3c30a035fc1742b17eb5726d53b706"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6635493
+project-id = 252910
