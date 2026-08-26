@@ -1,13 +1,13 @@
 name = "Naturalist"
-filename = "naturalist-2.0.0-neoforge-1.21.1.jar"
+filename = "naturalist-2.0.3-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "797a10f81fba9cdf91a7b1c4cd8dc7f632ad7fac"
+hash = "addb9794fe723d094ddc622b1234944727a542fa"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8524135
+file-id = 8663845
 project-id = 627986

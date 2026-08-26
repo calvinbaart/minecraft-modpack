@@ -1,13 +1,13 @@
 name = "Amendments"
-filename = "amendments-neoforge-1.21-2.1.7.jar"
+filename = "amendments-1.21-2.1.8-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "69b9a6243a1513f7e40780367c40d23a4d687439"
+hash = "6ac2840cc53354911a53860c096ed0f6cd77e259"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8415430
+file-id = 8725092
 project-id = 896746

@@ -1,0 +1,13 @@
+name = "ParCool!"
+filename = "ParCool-1.21.1-4.0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fsvx2bdR/versions/ooFxddBu/ParCool-1.21.1-4.0.0.1.jar"
+hash-format = "sha512"
+hash = "49243269d0ac4fd604c7c812dff54265a7df066f9d77aa9207896b75cbce4fa8afad9d35450b7f724e47bb49c9171f761036097ecb46daa7bbcaae946c672213"
+
+[update]
+[update.modrinth]
+mod-id = "Fsvx2bdR"
+version = "ooFxddBu"

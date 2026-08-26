@@ -1,0 +1,13 @@
+name = "Health Bar Beam"
+filename = "healthbarbeam-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a5d17ae64e5df3b1a8eb091cd840d5ba3a4ae9f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7100063
+project-id = 1362435

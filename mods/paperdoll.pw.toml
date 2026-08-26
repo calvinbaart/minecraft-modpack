@@ -1,13 +1,13 @@
 name = "PaperDoll"
-filename = "paperdoll-neoforge-1.4.0-mc1.21.1.jar"
+filename = "paperdoll-neoforge-1.5.1-mc1.21.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "aae681211b9a346aca3332afe2f7a90a933ba6df"
+hash = "9a9818a9a8db79d3469e9ab96b826190b25ec83d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7426528
+file-id = 8702212
 project-id = 537079

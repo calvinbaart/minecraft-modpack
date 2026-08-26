@@ -1,12 +1,12 @@
-name = "Achtertuin"
-version = "6.0.10"
+name = "BaartPack"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "abb015035910a7b493c8d7eb7ec3ad5a8eb8825e14011e9c3a9911c4344aca24"
+hash = "c1fba9eb7ee7b404a27ec709ccda1eb3d6e11de2b119fba8be146e97d915af55"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.244"
+neoforge = "21.1.248"

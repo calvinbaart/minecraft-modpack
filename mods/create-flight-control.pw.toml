@@ -1,13 +1,13 @@
 name = "Create: Flight Control"
-filename = "create_flight_control-neoforge-0.5.1.jar"
+filename = "create_flight_control-neoforge-0.6.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9b9f058569067b6bb187fbb93671cde72f685495"
+hash = "781d53d6c1ea86a28914940fb54e2ca10e6f9736"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8439766
+file-id = 8645271
 project-id = 1605193

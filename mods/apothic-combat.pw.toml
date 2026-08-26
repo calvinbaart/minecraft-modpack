@@ -1,7 +1,6 @@
 name = "Better Combat x Apotheosis Compat"
 filename = "apothiccombat-1.2.1.jar"
 side = "both"
-pin = true
 
 [download]
 hash-format = "sha1"
