@@ -1356,7 +1356,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-world-map-waystones-compatibility-forge.pw.toml"
-hash = "6c0c39d1ad95a69a62331fed81e83b289b860a6020645cbb59759aea16fa5553"
+hash = "637bc567eb5260d55ce89e6471c31e4369d454607f3d6f40139f7f7bdef90af9"
 metafile = true
 
 [[files]]

@@ -1,11 +1,11 @@
 name = "BaartPack"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "206f01b715fccf627e8da1be08e550c1b6f05866feba7cc1c300825c762dabc5"
+hash = "2ee3c768f249337712484678233e1773f37c699ea94bf195d706b24932d2cd57"
 
 [versions]
 minecraft = "1.21.1"
